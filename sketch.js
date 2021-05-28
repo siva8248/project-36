@@ -4,7 +4,7 @@ var foodS, foodStock;
 var fedTime, lastFed, feed, addFood;    
 
 function preload(){
-  sadDog=loadImage("/Dog.png");
+  sadDog=loadImage("Dog.png");
   happyDog=loadImage("hdd.png");
 }
 
